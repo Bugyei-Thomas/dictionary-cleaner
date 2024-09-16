@@ -11,3 +11,6 @@
 ```
   python3 cleaner.py <file1> <file2> <file3>...
 ```
+
+## Example
+<img src="example.png"></img>
