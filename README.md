@@ -2,7 +2,7 @@
 
 ## Installation
 ```
-  git clone https://github.com/Bugyei-Thomas/dictionary-cleaner/
+  git clone https://github.com/s4wbvnny/dictionary-cleaner/
   cd dictionary-cleaner
   pip3 install tqdm
 ```
